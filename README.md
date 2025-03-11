@@ -23,12 +23,9 @@ DllUtility is a lightweight Windows tool that lists **exported functions** from 
 #### **Build Steps:**
 
 ```sh
-# Clone the repository
-git clone https://github.com/yourusername/DLL-Export-Viewer.git
-cd DLL-Export-Viewer
-
+# Downlaod from Release section
 # Open the solution file in Visual Studio
-DLLExportViewer.sln
+0x3xploit.sln
 
 # Build the project using Visual Studio
 
